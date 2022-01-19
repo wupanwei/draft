@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T14:34:29.673Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="MJyQATZ720arIKA0Dr2S" version="16.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-19T14:35:20.380Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="fVxNyIlDEo_VRdqHT4PG" version="16.4.0" type="github" pages="3">
   <diagram id="cscUKAyGtHFF8kmav4bx" name="logical">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
         <mxCell id="e1oCxfLyt4vFD6YIVGxG-20" value="租户-功能关联" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YxS4jekrh3Yk1Ri1dkQv-9">
           <mxGeometry x="15" y="100" width="125" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e1oCxfLyt4vFD6YIVGxG-21" value="系统功能表是一个常量，可存写在代码中，用于控制租户开启的功能&lt;br&gt;供应商、客户可以当作未开启某些功能的租户" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="tMCr0gQGkPMXGsivF6mT-1">
+        <mxCell id="e1oCxfLyt4vFD6YIVGxG-21" value="系统功能表是一个常量，可在代码中定义，用于控制租户开启的功能&lt;br&gt;供应商、客户可以当作未开启某些功能的租户" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="tMCr0gQGkPMXGsivF6mT-1">
           <mxGeometry x="590" y="330" width="200" height="120" as="geometry" />
         </mxCell>
       </root>
