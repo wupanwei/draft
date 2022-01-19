@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T14:35:20.380Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="fVxNyIlDEo_VRdqHT4PG" version="16.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-19T14:38:01.263Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="MplyB03IcnVbNrRIH7K_" version="16.4.0" type="github" pages="3">
   <diagram id="cscUKAyGtHFF8kmav4bx" name="logical">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="20" y="100" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YxS4jekrh3Yk1Ri1dkQv-9" value="租户" style="swimlane;" vertex="1" parent="tMCr0gQGkPMXGsivF6mT-1">
-          <mxGeometry x="140" y="80" width="380" height="520" as="geometry" />
+          <mxGeometry x="120" y="130" width="380" height="520" as="geometry" />
         </mxCell>
         <mxCell id="YxS4jekrh3Yk1Ri1dkQv-4" value="租户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YxS4jekrh3Yk1Ri1dkQv-9">
           <mxGeometry x="20" y="40" width="120" height="40" as="geometry" />
@@ -43,14 +43,11 @@
         <mxCell id="e1oCxfLyt4vFD6YIVGxG-8" value="岗位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YxS4jekrh3Yk1Ri1dkQv-9">
           <mxGeometry x="160" y="240" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e1oCxfLyt4vFD6YIVGxG-13" value="租户-组织关联" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YxS4jekrh3Yk1Ri1dkQv-9">
-          <mxGeometry x="30" y="320" width="160" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="e1oCxfLyt4vFD6YIVGxG-9" value="用户-组织关联" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YxS4jekrh3Yk1Ri1dkQv-9">
-          <mxGeometry x="25" y="390" width="165" height="30" as="geometry" />
+          <mxGeometry x="25" y="350" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e1oCxfLyt4vFD6YIVGxG-11" value="用户-岗位关联" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YxS4jekrh3Yk1Ri1dkQv-9">
-          <mxGeometry x="25" y="460" width="165" height="30" as="geometry" />
+          <mxGeometry x="25" y="410" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e1oCxfLyt4vFD6YIVGxG-20" value="租户-功能关联" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YxS4jekrh3Yk1Ri1dkQv-9">
           <mxGeometry x="15" y="100" width="125" height="30" as="geometry" />
